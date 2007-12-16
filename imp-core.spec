@@ -4,7 +4,7 @@
 
 Name:           imp-core
 Version:        0.7.8
-Release:        %mkrel 0.0.2
+Release:        %mkrel 0.0.3
 Epoch:          0
 Summary:        org.freecompany.imp.core
 License:        MIT
@@ -30,7 +30,7 @@ BuildRequires:  brimstone-module
 BuildRequires:  imp-core
 %endif
 BuildRequires:  infoset
-BuildRequires:  jpackage-utils >= 0:1.6
+BuildRequires:  java-rpmbuild >= 0:1.6
 BuildRequires:  junit
 BuildRequires:  util-multicaster
 BuildRequires:  xmlwriter
