@@ -4,7 +4,7 @@
 
 Name:           imp-core
 Version:        0.7.8
-Release:        %mkrel 0.0.4
+Release:        %mkrel 0.0.5
 Epoch:          0
 Summary:        org.freecompany.imp.core
 License:        MIT
