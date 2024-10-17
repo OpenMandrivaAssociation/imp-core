@@ -9,7 +9,7 @@ Epoch:          0
 Summary:        org.freecompany.imp.core
 License:        MIT
 Group:          Development/Java
-URL:            http://www.freecompany.org/
+URL:            https://www.freecompany.org/
 Source0:        http://repository.freecompany.org/org/freecompany/imp/zips/imp-core-src-0.7.8.zip
 Source1:        imp-core-0.7.8-build.xml
 Requires:       brimstone-cache
